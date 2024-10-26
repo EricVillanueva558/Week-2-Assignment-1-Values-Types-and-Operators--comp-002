@@ -26,4 +26,4 @@ console.log((10 * 10 > 50) && (5 * 5 < 50));
 console.log((1 + 2 > 5) || (1 * 10 > 5));
 
 // Demonstrate an automatic type conversion
-console.log("The number is " + 5);  // JavaScript converts number 5 to string
+console.log("The number is " + 5);
